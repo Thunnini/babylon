@@ -241,6 +241,7 @@ github.com/Nvveen/Gotty v0.0.0-20120604004816-cd527374f1e5/go.mod h1:lmUJ/7eu/Q8
 github.com/OneOfOne/xxhash v1.2.2/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
 github.com/Shopify/sarama v1.19.0/go.mod h1:FVkBWblsNy7DGZRfXLU0O9RCGt5g3g3yEuWXgklEdEo=
 github.com/Shopify/toxiproxy v2.1.4+incompatible/go.mod h1:OXgGpZ6Cli1/URJOF1DMxUHB2q5Ap20/P/eIdh4G0pI=
+github.com/Thunnini/cosmos-sdk v0.50.11-temp.0 h1:lhdaIPaGaNXGmUhOWOg2HZN8InYycOo2K0lI0UueEWY=
 github.com/Thunnini/cosmos-sdk v0.50.11-temp.0/go.mod h1:gt14Meok2IDCjbDtjwkbUcgVNEpUBDN/4hg9cCUtLgw=
 github.com/VividCortex/gohistogram v1.0.0 h1:6+hBz+qvs0JOrrNhhmR7lFxo5sINxBCGXrdtl/UvroE=
 github.com/VividCortex/gohistogram v1.0.0/go.mod h1:Pf5mBqqDxYaXu3hDrrU+w6nw50o/4+TcAqDqk/vUH7g=
@@ -381,8 +382,6 @@ github.com/cosmos/cosmos-db v1.1.0 h1:KLHNVQ73h7vawXTpj9UJ7ZR2IXv51tsEHkQJJ9EBDz
 github.com/cosmos/cosmos-db v1.1.0/go.mod h1:t7c4A6cfGdpUwwVxrQ0gQLeRQqGUBJu0yvE4F/26REg=
 github.com/cosmos/cosmos-proto v1.0.0-beta.5 h1:eNcayDLpip+zVLRLYafhzLvQlSmyab+RC5W7ZfmxJLA=
 github.com/cosmos/cosmos-proto v1.0.0-beta.5/go.mod h1:hQGLpiIUloJBMdQMMWb/4wRApmI9hjHH05nefC0Ojec=
-github.com/cosmos/cosmos-sdk v0.50.11 h1:LxR1aAc8kixdrs3itO+3a44sFoc+vjxVAOyPFx22yjk=
-github.com/cosmos/cosmos-sdk v0.50.11/go.mod h1:gt14Meok2IDCjbDtjwkbUcgVNEpUBDN/4hg9cCUtLgw=
 github.com/cosmos/go-bip39 v1.0.0 h1:pcomnQdrdH22njcAatO0yWojsUnCO3y2tNoV1cb6hHY=
 github.com/cosmos/go-bip39 v1.0.0/go.mod h1:RNJv0H/pOIVgxw6KS7QeX2a0Uo0aKUlfhZ4xuwvCdJw=
 github.com/cosmos/gogogateway v1.2.0 h1:Ae/OivNhp8DqBi/sh2A8a1D0y638GpL3tkmLQAiKxTE=
